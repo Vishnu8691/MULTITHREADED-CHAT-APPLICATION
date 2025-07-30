@@ -46,3 +46,7 @@ The main thread captures user input and sends it to the server.
 ->Broadcasting: Messages sent by one client are broadcasted to all other connected clients, enabling group chat functionality.
 ->Scalability: The server can handle multiple clients, making it suitable for small to medium-sized chat applications.
 
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a68acd10-57d8-4c17-98b2-6f141ef3b116)
